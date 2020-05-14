@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuizzApplication</string>
+    <string name="answer_here">Write your answer here..</string>
+    <string name="submit">Submit</string>
+    <string name="cricket_quiz">Cricket Quiz</string>
+    <string name="quiz">Q1. In which year did the India won cricket world cup for the first time ?</string>
+    <string name="question_2">Q2. Openers of Indian cricket team?</string>
+    <string name="shikar_dhawan">Shikar Dhawan</string>
+    <string name="rohit_sharma">Rohit Sharma</string>
+    <string name="virat_kholi">Virat kholi</string>
+    <string name="kapil_dev">Kapil dev</string>
+    <string name="question_3">Q3. Who did England beat in the final of the 2019 Cricket World Cup?</string>
+    <string name="question_4">Q4. How many overs are there in Test match ?</string>
+    <string name="_10_overs">10 Overs</string>
+    <string name="_20_overs">20 Overs</string>
+    <string name="unlimited_overs">Unlimited Overs</string>
+    <string name="_50_overs">50 Overs</string>
+    <string name="question_5">Q5. What do you call a referee in cricket?</string>
+    <string name="question_6">Q6. Who is the captain of the 2019 England cricket team?</string>
+    <string name="question_7">Q7. The Big Bash League is based in which country?</string>
+    <string name="question_8">Q8. Who was the first player to reach 10,000 runs in Test cricket?</string>
+    <string name="year">1983</string>
+    <string name="new_zealand">New Zealand</string>
+    <string name="new_small_zealand">new zealand</string>
+    <string name="umpire">Umpire</string>
+    <string name="small_umpire">umpire</string>
+    <string name="joe_root">Joe Root</string>
+    <string name="joe_small_root">joe root</string>
+    <string name="australia">Australia</string>
+    <string name="small_australia">australia</string>
+    <string name="sunil_gavaskar">Sunil Gavaskar</string>
+    <string name="sunil_small_gavaskar">sunil gavaskar</string>
+    <string name="unlimited_small_overs">unlimited overs</string>
+    <string name="you_have_scored">You have scored: </string>
+    <string name="by_8">/8</string>
+    <string name="mandatory_questions">All questions are mandatory</string>
+</resources>
