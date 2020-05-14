@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                         score++;
                     }
 
-                    if (cbSharma.isChecked() && cbShikar.isChecked()) {
+                    if (!cbDev.isChecked() && !cbKholi.isChecked() && cbSharma.isChecked() && cbShikar.isChecked()) {
                         score++;
                     }
                 } else {
